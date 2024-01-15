@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="图书借阅项目Demo:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/Demo_war</output-path>
+    <root id="archive" name="图书借阅项目Demo_war.war">
+      <element id="artifact" artifact-name="图书借阅项目Demo:war exploded" />
+    </root>
+  </artifact>
+</component>

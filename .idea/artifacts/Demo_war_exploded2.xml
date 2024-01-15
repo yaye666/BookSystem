@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="图书借阅项目Demo:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Demo_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="图书借阅项目Demo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="图书借阅项目Demo/web/Web" />
+    </root>
+  </artifact>
+</component>
